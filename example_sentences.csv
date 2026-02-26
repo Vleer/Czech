@@ -37,7 +37,7 @@ aby	so that	Šel dřív, aby nepřišel pozdě.	He left early so that he wouldn�
 nebo	or	Dáš si čaj nebo kávu?	Will you have tea or coffee?
 jeho	his	Jeho auto je před domem.	His car is in front of the house.
 jen	only	Mám jen tři minuty.	I have only three minutes.
-jedен	one	Má jen jeden problém, ale velký.	He has only one problem, but a big one.
+jeden	one	Má jen jeden problém, ale velký.	He has only one problem, but a big one.
 člověk	person	Každý člověk dělá občas chyby.	Every person makes mistakes sometimes.
 u	at	Sejdeme se u školy v pět.	We will meet at the school at five.
 muset	must	Musím dnes vstát opravdu brzy.	I must get up really early today.
@@ -185,8 +185,7 @@ jestli	if (whether)	Nevím, jestli přijde včas.	I don’t know whether he will
 nikdo	no one	Nikdo nechtěl odejít první.	No one wanted to leave first.
 firma	company	Pracuju ve známé IT firmě.	I work in a well-known IT company.
 mladý	young	Ještě je moc mladý na řízení auta.	He is still too young to drive a car.
-totiž
-you see, namely	Nemůžu přijít, totiž jsem nemocný.	I can’t come, you see, I am ill.
+totiž	you see, namely	Nemůžu přijít, totiž jsem nemocný.	I can’t come, you see, I am ill.
 různý	different	Má různé zájmy a koníčky.	He has different interests and hobbies.
 čekat	to wait	Čekám na autobus už deset minut.	I have been waiting for the bus for ten minutes.
 mluvit	to speak	Mluví pomalu, aby všichni rozuměli.	He speaks slowly so that everyone understands.
@@ -210,3 +209,293 @@ hlavní	main	Hlavní problém je nedostatek času.	The main problem is a lack of
 zůstat	to stay	Musel zůstat doma s dětmi.	He had to stay at home with the children.
 dveře	door	Zavři dveře, je tu průvan.	Close the door, there is a draft here.
 možnost	possibility	Máš možnost zůstat nebo odejít.	You have the possibility to stay or to leave.
+žít	to live	Chce žít zdravěji než dřív.	He wants to live more healthily than before.
+znát	to know	Neznám dobře tohle město.	I don’t know this city well.
+trochu	a little	Mám dnes jen trochu času.	Today I have only a little time.
+nakonec	in the end	Nakonec jsme zůstali doma.	In the end we stayed at home.
+peníze	money	Šetří peníze na novou dovolenou.	He is saving money for a new holiday.
+taky	also	Byl tam on a taky jeho bratr.	He was there and also his brother.
+tělo	body	Po tréninku mě bolí celé tělo.	After training my whole body hurts.
+daleko	far	Bydlí daleko od centra města.	He lives far from the city centre.
+situace	situation	Tahle situace je pro mě nová.	This situation is new for me.
+stát	state, country	Česká republika je středoevropský stát.	The Czech Republic is a Central European state.
+otázka	question	Mám na tebe jen jednu otázku.	I have only one question for you.
+kniha	book	Tahle kniha je hodně napínavá.	This book is very thrilling.
+kvůli	because of	Přišel pozdě kvůli dopravě.	He arrived late because of traffic.
+skupina	group	Skupina studentů čeká před školou.	A group of students is waiting in front of the school.
+znovu	again	Zkusím to znovu a lépe.	I’ll try it again and better.
+navíc	in addition	Dostal navíc jeden den volna.	He got one extra day off.
+cítit	to feel	Cítím se dnes nějak unaveně.	I feel somehow tired today.
+ovšem	of course	Můžeš přijít, ovšem musíš zavolat předem.	You can come, of course, but you must call in advance.
+ano	yes	Řekla jasné ano na jeho otázku.	She said a clear yes to his question.
+dojít	to reach, to run out	Musíme dojít na poštu ještě dnes.	We must get to the post office today.
+pan	Mr.	Pan Novák dnes nepřijde.	Mr Novak will not come today.
+otec	father	Můj otec rád opravuje auta.	My father likes fixing cars.
+tisíc	thousand	Přišlo asi tisíc lidí na koncert.	About a thousand people came to the concert.
+mnoho	many, much	Má mnoho zkušeností z ciziny.	He has a lot of experience from abroad.
+rodina	family	Moje rodina tráví víkendy na chatě.	My family spends weekends at the cottage.
+ostatní	others	Ostatní kolegové už odešli domů.	The other colleagues have already gone home.
+měsíc	month	Za měsíc začínají prázdniny.	The holidays start in a month.
+čtyři	four	Máme doma čtyři židle.	We have four chairs at home.
+především	above all	Především chci mít dostatek času.	Above all I want to have enough time.
+získat	to obtain	Chce získat lepší práci.	He wants to get a better job.
+matka	mother	Jeho matka pracuje v nemocnici.	His mother works in a hospital.
+hned	immediately	Přijdu hned, jen si obuju boty.	I’ll come immediately, I’ll just put on my shoes.
+změna	change	Potřebuje velkou změnu v životě.	He needs a big change in his life.
+dále	further	Pokračujte dále rovně po ulici.	Continue further straight along the street.
+během	during	Během týdne nemám moc času.	During the week I don’t have much time.
+jméno	name	Jaké je tvoje celé jméno?	What is your full name?
+projekt	project	Pracuje na novém projektu v práci.	He is working on a new project at work.
+pár	a few, couple	Mám pro tebe pár otázek.	I have a few questions for you.
+znamenat	to mean	Co má to slovo znamenat?	What is that word supposed to mean?
+týden	week	Za týden jedeme na hory.	In a week we are going to the mountains.
+pracovat	to work	Pracuje z domova tři dny v týdnu.	He works from home three days a week.
+zde	here (formal)	Prosím podepište se zde.	Please sign here.
+dlouho	for a long time	Čekali jsme dlouho na výsledky.	We waited a long time for the results.
+auto	car	Jeho auto je zaparkované před domem.	His car is parked in front of the house.
+snad	hopefully	Snad zítra nebude pršet.	Hopefully it won’t rain tomorrow.
+tvář	face	Měl vážnou tvář během rozhovoru.	He had a serious face during the conversation.
+zeptat	to ask	Chci se zeptat na jednu věc.	I want to ask about one thing.
+výsledek	result	Výsledek zkoušky byl lepší než čekal.	The exam result was better than he expected.
+díky	thanks to	Díky tobě jsme to stihli včas.	Thanks to you we managed it on time.
+někdy	sometimes	Někdy chodím běhat ráno.	Sometimes I go running in the morning.
+většina	majority	Většina lidí souhlasila s plánem.	The majority of people agreed with the plan.
+úplně	completely	Jsem po práci úplně vyčerpaný.	I am completely exhausted after work.
+příliš	too (much)	Je to příliš drahé pro studenty.	It is too expensive for students.
+slyšet	to hear	Nemůžu tě dobře slyšet.	I can’t hear you well.
+rychle	quickly	Musíme rychle dokončit úkol.	We have to finish the task quickly.
+nyní	now (formal)	Nyní můžete klidně odejít.	You may leave now.
+li	if (in constructions)	Nevíš-li kudy, zeptej se.	If you don’t know which way, ask.
+pět	five	Potřebuju pět minut pauzu.	I need a five-minute break.
+téměř	almost	Je téměř deset hodin večer.	It is almost ten o’clock in the evening.
+podívat	to look at	Pojďme se podívat na film.	Let’s go watch a movie.
+co	what	Nevím, co si o tom myslet.	I don’t know what to think about it.
+známý	known, acquaintance	Je to známý zpěvák.	He is a well-known singer.
+ještě	still, yet	Pořád ještě nemám hotový úkol.	I still don’t have the homework finished.
+noc	night	V noci je tu úplné ticho.	At night it is completely quiet here.
+síla	strength	Nemám sílu pokračovat dál.	I don’t have the strength to continue.
+vztah	relationship	Mají dobrý vztah se sousedy.	They have a good relationship with their neighbours.
+noha	leg	Zranil si nohu při fotbale.	He injured his leg while playing football.
+dost	enough	Mám dost práce na celý týden.	I have enough work for the whole week.
+spíš	rather	Spíš zůstanu doma než půjdu do kina.	I’d rather stay at home than go to the cinema.
+program	program	Večerní program je už plný.	The evening program is already full.
+rozhodnout	to decide	Musíš se rychle rozhodnout.	You have to decide quickly.
+přece	after all	Vždyť to přece víš.	You know that after all.
+vlastně	actually	Vlastně se mi ten nápad líbí.	Actually I like that idea.
+hlas	voice	Jeho hlas zněl unaveně.	His voice sounded tired.
+jenom	only	Chtěl jsem jenom pomoct.	I just wanted to help.
+důvod	reason	Nemám důvod ti nevěřit.	I have no reason not to believe you.
+hra	game	Tahle hra je hodně návyková.	This game is very addictive.
+film	film	Ten film jsem viděl už dvakrát.	I’ve already seen that film twice.
+opravdu	really	Je to opravdu dobrá restaurace.	It is a really good restaurant.
+minuta	minute	Za minutu začíná porada.	The meeting starts in a minute.
+pořád	still, always	Pořád myslím na tu dovolenou.	I still think about that holiday.
+samozřejmě	of course	Samozřejmě ti s tím pomůžu.	Of course I’ll help you with that.
+nejen	not only	Je chytrý, nejen pilný.	He is smart, not only hard-working.
+informace	information	Potřebuju více informací o kurzu.	I need more information about the course.
+objevit	to discover	Objevili nový způsob léčby.	They discovered a new method of treatment.
+prostor	space	V pokoji je málo prostoru.	There is little space in the room.
+přitom	at the same time	Smál se a přitom kroutil hlavou.	He was laughing and at the same time shaking his head.
+pravda	truth	Řekni mi pravdu, prosím.	Tell me the truth, please.
+ukázat	to show	Můžeš mi ukázat cestu?	Can you show me the way?
+služba	service	Služba v hotelu byla výborná.	The service in the hotel was excellent.
+existovat	to exist	Takové místo opravdu existuje.	Such a place really exists.
+vždy	always	Vždy přijdeš pozdě na schůzky.	You always come late to meetings.
+uvést	to state, to list	Musíš uvést své jméno a adresu.	You must state your name and address.
+evropský	European	Studuje evropský právní systém.	He studies the European legal system.
+sedět	to sit	Seděl u okna a četl si.	He sat by the window and read.
+zcela	completely	Byl zcela překvapen výsledkem.	He was completely surprised by the result.
+přímo	directly	Bydlí přímo v centru města.	He lives directly in the city centre.
+druh	kind, type	Jaký druh hudby posloucháš?	What kind of music do you listen to?
+století	century	Román se odehrává v 19. století.	The novel takes place in the 19th century.
+jistý	certain	Jsem si jistý, že to zvládneš.	I am certain that you can manage it.
+základní	basic	To jsou základní pravidla hry.	These are the basic rules of the game.
+stačit	to be enough	Stačí ti jedna vstupenka?	Is one ticket enough for you?
+kromě	besides	Kromě práce se věnuje i sportu.	Besides work he also does sports.
+pomoci	to help	Můžeš mi s tím prosím pomoci?	Can you please help me with this?
+potom	then	Nejdřív uklidím a potom půjdu ven.	First I’ll clean and then I’ll go out.
+jinak	otherwise	Pospěš si, jinak přijdeme pozdě.	Hurry up, otherwise we will be late.
+bílý	white	Má bílý hrnek na kávu.	He has a white mug for coffee.
+tehdy	at that time	Tehdy jsem bydlel v Brně.	At that time I lived in Brno.
+plný	full	Vlak byl plný lidí.	The train was full of people.
+špatný	bad	Mám dnes špatný den.	I am having a bad day today.
+vždycky	always	Vždycky si ráno dám kávu.	I always have coffee in the morning.
+procento	percent	Sleva je deset procent.	The discount is ten percent.
+podobný	similar	Máme podobný vkus na filmy.	We have similar taste in films.
+chodit	to go regularly	Chodí běhat každé ráno.	He goes running every morning.
+zdát	to seem	Zdá se mi to příliš složité.	It seems too complicated to me.
+ulice	street	Bydlí v klidné ulici.	He lives in a quiet street.
+zákon	law	Podle zákona musí zaplatit pokutu.	According to the law he must pay a fine.
+typ	type	Jaký typ hudby máš rád?	What type of music do you like?
+hodnota	value	Cena má pro mě jinou hodnotu.	The price has a different value for me.
+pocit	feeling	Mám z toho dobrý pocit.	I have a good feeling about it.
+stav	state, condition	Jeho zdravotní stav se zlepšil.	His health condition has improved.
+černý	black	Nosí jen černý kabát.	He wears only a black coat.
+okno	window	Otevři okno, je tu horko.	Open the window, it’s hot in here.
+dávat	to give, to put	Každý večer dává knihu na stůl.	Every evening he puts the book on the table.
+věřit	to believe	Věřím, že to dobře dopadne.	I believe it will turn out well.
+počet	number	Počet účastníků roste.	The number of participants is growing.
+právo	law, right	Máš právo na svůj názor.	You have the right to your opinion.
+směr	direction	Změnili směr cesty.	They changed the direction of the trip.
+zatím	so far	Zatím je všechno v pořádku.	So far everything is fine.
+zatímco	while	On vaří, zatímco ona čte.	He cooks while she reads.
+otevřít	to open	Můžeš otevřít ty dveře?	Can you open that door?
+platit	to pay	V obchodě platím kartou.	I pay by card in the shop.
+spolu	together	Spolu často jezdí na výlety.	They often go on trips together.
+smrt	death	Mluvit o smrti není snadné.	Talking about death is not easy.
+stůl	table	Položil knihu na stůl.	He put the book on the table.
+opět	again	Opět jsme se setkali v Praze.	We met again in Prague.
+bod	point	Získal další bod v soutěži.	He gained another point in the competition.
+tým	team	Tým vyhrál důležitý zápas.	The team won an important match.
+zájem	interest	Mám velký zájem o jazyky.	I have a great interest in languages.
+vláda	government	Vláda schválila nový zákon.	The government approved a new law.
+silný	strong	Je fyzicky velmi silný.	He is physically very strong.
+prostě	simply	Prostě to udělej a neřeš to.	Just do it and don’t overthink it.
+přesně	exactly	Přišel přesně včas.	He arrived exactly on time.
+trh	market	Na trhu prodávají čerstvé ovoce.	They sell fresh fruit at the market.
+hlavně	mainly	Hlavně buď opatrný.	Mainly, be careful.
+kraj	region	Bydlí v horském kraji.	He lives in a mountain region.
+jednotlivý	single, individual	Řešíme každý jednotlivý problém zvlášť.	We solve each individual problem separately.
+současný	current	Je současný ředitel firmy.	He is the current director of the company.
+jednat	to act, to negotiate	Musíme jednat rychle.	We have to act quickly.
+světlo	light	Rozsviť světlo v pokoji.	Turn on the light in the room.
+podmínka	condition	To je podmínka smlouvy.	That is a condition of the contract.
+zjistit	to find out	Musíme zjistit, kde je chyba.	We must find out where the mistake is.
+lidský	human	Je to velmi lidský přístup.	It is a very human approach.
+tvůj	your (singular)	Jaký je tvůj plán na víkend?	What is your plan for the weekend?
+zda	whether	Nevím, zda přijde dnes.	I don’t know whether he will come today.
+zápas	match	Zítra se hraje důležitý zápas.	An important match is played tomorrow.
+zejména	especially	To platí zejména pro děti.	That applies especially to children.
+psát	to write	Každý den píše krátký deník.	He writes a short diary every day.
+těžký	heavy, difficult	Ten batoh je velmi těžký.	That backpack is very heavy.
+deset	ten	Má deset nových e-mailů.	He has ten new emails.
+změnit	to change	Chci změnit svůj životní styl.	I want to change my lifestyle.
+i	too, even	Já i on máme stejný problém.	Both he and I have the same problem.
+pokračovat	to continue	Můžeme pokračovat zítra.	We can continue tomorrow.
+no	well (discourse)	No, uvidíme, jak to dopadne.	Well, we’ll see how it turns out.
+jet	to go (by vehicle)	Zítra jedu vlakem do Brna.	Tomorrow I’m going to Brno by train.
+prostředí	environment	Pracuje v mezinárodním prostředí.	He works in an international environment.
+držet	to hold	Drž dveře, prosím.	Hold the door, please.
+umět	to know how	Neumím dobře zpívat.	I don’t know how to sing well.
+válka	war	Film se odehrává během války.	The film takes place during the war.
+nízký	low	Má nízký stůl v obýváku.	He has a low table in the living room.
+hledat	to search	Hledám nové bydlení.	I am looking for new accommodation.
+cíl	goal	Můj cíl je mluvit plynně česky.	My goal is to speak Czech fluently.
+zároveň	at the same time	Pracuje a zároveň studuje.	He works and studies at the same time.
+představovat	to represent	Ten dům představuje jejich styl.	That house represents their style.
+dívat	to look	Dívá se z okna na ulici.	He is looking out of the window at the street.
+určitý	certain	Mám k tomu určitý důvod.	I have a certain reason for that.
+určitě	certainly	Určitě přijdu včas.	I will certainly come on time.
+naopak	on the contrary	Myslel jsem si naopak opak.	I actually thought the opposite.
+skončit	to finish	Práce skončí v pět hodin.	Work finishes at five o’clock.
+více	more	Potřebuji více informací.	I need more information.
+pokoj	room	Tvůj pokoj je moc hezký.	Your room is very nice.
+jednou	once	Jednou bych chtěl žít u moře.	One day I’d like to live by the sea.
+rodič	parent	Každý rodič se bojí o své dítě.	Every parent fears for their child.
+vedle	next to	Bydlí vedle školy.	He lives next to the school.
+jasný	clear	Je to jasný signál změny.	It is a clear signal of change.
+používat	to use	Používá mobil i při práci.	He uses his mobile even at work.
+osoba	person	Každá osoba musí podepsat smlouvu.	Each person must sign the contract.
+řešení	solution	Musíme najít jiné řešení.	We must find another solution.
+barva	colour	Jaká je tvoje oblíbená barva?	What is your favourite colour?
+kolo	bike, wheel	Ještě neumí jezdit na kole.	He doesn’t know how to ride a bike yet.
+začínat	to begin	Film začíná v osm večer.	The film begins at eight in the evening.
+považovat	to consider	Považuju ho za dobrého člověka.	I consider him a good person.
+jenže	but (however)	Chtěl jít ven, jenže prší.	He wanted to go out, but it’s raining.
+funkce	function	Tato funkce není dostupná.	This function is not available.
+stavba	building, construction	Stavba nového domu trvá rok.	The construction of the new house takes a year.
+základ	basis	Dobrý spánek je základ zdraví.	Good sleep is the basis of health.
+podařit	to succeed	Podařilo se mu složit zkoušku.	He managed to pass the exam.
+působit	to act, to affect	Lék působí rychle.	The medicine acts quickly.
+smysl	sense	To nedává žádný smysl.	That doesn’t make any sense.
+číslo	number	Jaké je tvoje telefonní číslo?	What is your phone number?
+skutečnost	reality, fact	Ve skutečnosti je to jinak.	In reality it is different.
+role	role	V té hře má hlavní roli.	He has the main role in that play.
+sice	although	Je to těžké, sice zajímavé.	It is hard, although interesting.
+metr	metre	Pokoj má asi čtyři metry na délku.	The room is about four metres long.
+potřeba	need	Je potřeba více času na přípravu.	More time is needed for preparation.
+rozdíl	difference	Mezi nimi je velký věkový rozdíl.	There is a big age difference between them.
+zpráva	message, report	Dostal krátkou zprávu od kamaráda.	He got a short message from a friend.
+představit	to introduce, to imagine	Chci ti představit svého bratra.	I want to introduce my brother to you.
+odpovědět	to answer	Nezapomeň odpovědět na ten e‑mail.	Don’t forget to answer that email.
+zdroj	source	Musíme najít zdroj problému.	We must find the source of the problem.
+nabízet	to offer	Firma nabízí nový kurz angličtiny.	The company offers a new English course.
+domácí	home, domestic	Má rád domácí jídlo.	He likes home-cooked food.
+energie	energy	Po kávě mám víc energie.	After coffee I have more energy.
+krok	step	Udělali jsme první krok k cíli.	We have made the first step towards the goal.
+vyjít	to go out, to work out	Snad to tentokrát dobře vyjde.	Hopefully it will work out well this time.
+ležet	to lie (be lying)	Kniha leží na stole.	The book is lying on the table.
+sociální	social	Pracuje v sociální službě.	He works in social services.
+prý	reportedly	Prý zítra přijde sníh.	Apparently snow will come tomorrow.
+brát	to take	Bere léky každý den.	He takes medicine every day.
+třetí	third	Bydlí ve třetím patře.	He lives on the third floor.
+doma	at home	Dnes zůstanu doma.	Today I will stay at home.
+státní	state (adj.)	Pracuje ve státní správě.	He works in the state administration.
+americký	American	Sleduje americký film v televizi.	He is watching an American movie on TV.
+centrum	centre	Bydlí blízko centra města.	He lives near the city centre.
+sledovat	to watch, to follow	Sleduje seriál každý týden.	He watches the series every week.
+paní	Mrs., lady	Ta paní pracuje na poště.	That lady works at the post office.
+připravit	to prepare	Musíme připravit večeři pro hosty.	We must prepare dinner for the guests.
+člen	member	Je členem sportovního klubu.	He is a member of a sports club.
+vhodný	suitable	To není vhodný dárek pro dítě.	That is not a suitable gift for a child.
+akce	event, action	V sobotu je velká kulturní akce.	On Saturday there is a big cultural event.
+přesto	nevertheless	Byl unavený, přesto šel běhat.	He was tired, nevertheless he went running.
+kam	where to	Kam zítra pojedeš na výlet?	Where will you go for a trip tomorrow?
+krásný	beautiful	Dnes byl krásný slunečný den.	Today was a beautiful sunny day.
+obraz	picture	Na stěně visí starý obraz.	An old picture hangs on the wall.
+forma	form	Vyplň prosím tuto formu.	Please fill in this form.
+období	period	To bylo náročné období v práci.	It was a demanding period at work.
+byt	flat	Koupili si nový byt v centru.	They bought a new flat in the centre.
+mnohem	much	Cítím se mnohem lépe než včera.	I feel much better than yesterday.
+činnost	activity	Volnočasová činnost je pro děti důležitá.	Leisure activity is important for children.
+obec	municipality	Obec pořádá letní festival.	The municipality organizes a summer festival.
+přítel	friend	Můj nejlepší přítel bydlí daleko.	My best friend lives far away.
+republika	republic	Žijeme v České republice.	We live in the Czech Republic.
+proces	process	Učící proces trvá celý život.	The learning process lasts a lifetime.
+skoro	almost	Skoro nikdo tam nepřišel.	Almost nobody came there.
+hráč	player	Každý hráč má vlastní dres.	Each player has his own jersey.
+soud	court	Soud rozhodl ve prospěch obžalovaného.	The court decided in favour of the defendant.
+napsat	to write down	Musím napsat dopis babičce.	I must write a letter to my grandma.
+výkon	performance	Jeho výkon byl opravdu skvělý.	His performance was really great.
+trvat	to last	Schůzka bude trvat asi hodinu.	The meeting will last about an hour.
+syn	son	Jeho syn chodí do školky.	His son goes to kindergarten.
+materiál	material	Potřebujeme nový stavební materiál.	We need new building material.
+rámec	framework	Projekt běží v rámci školy.	The project runs within the framework of the school.
+politický	political	Sleduje politický vývoj v zemi.	He follows the political developments in the country.
+poté	afterwards	Nejdřív pojedeme na nákup a poté domů.	First we’ll go shopping and afterwards home.
+sem	here (direction)	Pojď sem a podívej se na to.	Come here and look at this.
+zajímavý	interesting	Byl to velmi zajímavý rozhovor.	It was a very interesting conversation.
+bůh	God	Věřil v jednoho boha.	He believed in one God.
+tvořit	to create	Rád tvoří nové recepty.	He likes creating new recipes.
+bývat	used to be	Dřív býval hodně tichý.	He used to be very quiet.
+model	model	Postavil model letadla z papíru.	He built a model airplane from paper.
+věnovat	to devote	Věnuje hodně času rodině.	He devotes a lot of time to his family.
+skutečně	really, truly	Je to skutečně dobrý učitel.	He really is a good teacher.
+vydat	to publish, to issue	Nakladatelství vydalo novou knihu.	The publishing house released a new book.
+srdce	heart	Cítím, jak mi bije srdce.	I feel my heart beating.
+postavit	to build	Chtějí postavit nový most.	They want to build a new bridge.
+vlas	hair (strand)	Na polštáři byl jeden vlas.	There was one hair on the pillow.
+autor	author	Je autorem několika článků.	He is the author of several articles.
+konečně	finally	Konečně máme hotový projekt.	We finally have the project finished.
+láska	love	Jejich láska trvala mnoho let.	Their love lasted many years.
+pražský	Prague (adj.)	Má rád pražský humor.	He likes Prague humour.
+pomoc	help	Děkuji za tvou pomoc.	Thank you for your help.
+dodat	to add	Chceš k tomu něco dodat?	Do you want to add something to that?
+polovina	half	Polovina třídy je nemocná.	Half of the class is ill.
+veřejný	public	Je to veřejný park.	It is a public park.
+nutný	necessary	Je nutný odpočinek.	Rest is necessary.
+dílo	work (of art)	Tohle je jeho nejlepší dílo.	This is his best work.
+schopný	capable	Je velmi schopný student.	He is a very capable student.
+strom	tree	Před domem roste vysoký strom.	A tall tree grows in front of the house.
+stránka	page, side	Otoč na další stránku.	Turn to the next page.
+rád	glad, fond of	Jsem rád, že jsi přišel.	I am glad you came.
+vytvořit	to create	Chtějí vytvořit nový program.	They want to create a new program.
+příběh	story	Vyprávěl zajímavý příběh z dětství.	He told an interesting story from childhood.
+zastavit	to stop	Musíme zastavit auto u kraje.	We have to stop the car at the side.
+jednoduchý	simple	To cvičení je docela jednoduché.	This exercise is quite simple.
+vývoj	development	Sleduje vývoj ekonomiky.	He follows the development of the economy.
+tvrdit	to claim	Tvrdí, že má pravdu.	He claims that he is right.
+společný	common, shared	Mají společný účet v bance.	They have a joint bank account.
+začátek	beginning	Na začátku roku je hodně práce.	At the beginning of the year there is a lot of work.
+odejít	to leave	Musel odejít dřív z práce.	He had to leave work early.
+pracovní	work (adj.)	Má pracovní schůzku v deset hodin.	He has a work meeting at ten o’clock.
