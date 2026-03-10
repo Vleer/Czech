@@ -1,0 +1,2 @@
+# Install into the project venv (see run.py).
+edge-tts>=7.0.0

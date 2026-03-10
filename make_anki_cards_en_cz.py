@@ -1,8 +1,8 @@
 """
-Czech → English deck: Front = Czech word + example sentence, Back = English translation + example.
+English → Czech deck: Front = English word + example sentence, Back = Czech word + example.
 
-Reads data/<dataset>.csv, writes output/<dataset>/cz_en.tsv.
-Usage: python make_anki_cards.py [dataset]
+Reads data/<dataset>.csv, writes output/<dataset>/en_cz.tsv.
+Usage: python make_anki_cards_en_cz.py [dataset]
 Default dataset: example_sentences
 """
 import csv
@@ -14,7 +14,7 @@ import paths
 
 DATASET = paths.get_dataset()
 INPUT_PATH = paths.data_csv(DATASET)
-OUTPUT_PATH = paths.cz_en_tsv(DATASET)
+OUTPUT_PATH = paths.en_cz_tsv(DATASET)
 
 
 def highlight_word_in_sentence(word: str, sentence: str) -> str:
@@ -49,26 +49,26 @@ def main() -> None:
             if not (czech_word and english_translation and czech_sentence and english_sentence):
                 continue
 
-            highlighted_czech_sentence = highlight_word_in_sentence(czech_word, czech_sentence)
             highlighted_english_sentence = highlight_word_in_sentence(english_translation, english_sentence)
+            highlighted_czech_sentence = highlight_word_in_sentence(czech_word, czech_sentence)
 
             query = f"Explain what this sentence means in simple terms. Break down grammatical concepts: {czech_sentence}"
             perplexity_url = "https://www.perplexity.ai/search?q=" + quote_plus(query)
 
             front = (
+                f"{english_translation}<br><br>"
+                f"{highlighted_english_sentence}"
+            )
+            back = (
                 f'{czech_word}<br><br>'
                 f'<a href="{perplexity_url}" target="_blank" '
                 f'style="color: inherit; text-decoration: none;">'
                 f'{highlighted_czech_sentence}</a>'
             )
-            back = (
-                f"{english_translation}<br><br>"
-                f"{highlighted_english_sentence}"
-            )
 
             writer.writerow([front, back])
 
-    print(f"Wrote Czech->English cards to {OUTPUT_PATH}")
+    print(f"Wrote English->Czech cards to {OUTPUT_PATH}")
 
 
 if __name__ == "__main__":
