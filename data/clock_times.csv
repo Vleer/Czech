@@ -1,0 +1,110 @@
+czech_word	english_translation	czech_sentence	english_sentence
+jedna hodina	one o'clock	Je jedna hodina.	It is one o'clock.
+dvě hodiny	two o'clock	Jsou dvě hodiny.	It is two o'clock.
+tři hodiny	three o'clock	Jsou tři hodiny.	It is three o'clock.
+čtyři hodiny	four o'clock	Jsou čtyři hodiny.	It is four o'clock.
+pět hodin	five o'clock	Je pět hodin.	It is five o'clock.
+šest hodin	six o'clock	Je šest hodin.	It is six o'clock.
+sedm hodin	seven o'clock	Je sedm hodin.	It is seven o'clock.
+osm hodin	eight o'clock	Je osm hodin.	It is eight o'clock.
+devět hodin	nine o'clock	Je devět hodin.	It is nine o'clock.
+deset hodin	ten o'clock	Je deset hodin.	It is ten o'clock.
+jedenáct hodin	eleven o'clock	Je jedenáct hodin.	It is eleven o'clock.
+dvanáct hodin	twelve o'clock	Je dvanáct hodin.	It is twelve o'clock.
+v jednu	at one o'clock	Přijdu v jednu.	I will arrive at one o'clock.
+ve dvě	at two o'clock	Přijdu ve dvě.	I will arrive at two o'clock.
+ve tři	at three o'clock	Přijdu ve tři.	I will arrive at three o'clock.
+ve čtyři	at four o'clock	Přijdu ve čtyři.	I will arrive at four o'clock.
+v pět	at five o'clock	Přijdu v pět.	I will arrive at five o'clock.
+v šest	at six o'clock	Přijdu v šest.	I will arrive at six o'clock.
+v sedm	at seven o'clock	Přijdu v sedm.	I will arrive at seven o'clock.
+v osm	at eight o'clock	Přijdu v osm.	I will arrive at eight o'clock.
+v devět	at nine o'clock	Přijdu v devět.	I will arrive at nine o'clock.
+v deset	at ten o'clock	Přijdu v deset.	I will arrive at ten o'clock.
+v jedenáct	at eleven o'clock	Přijdu v jedenáct.	I will arrive at eleven o'clock.
+ve dvanáct	at twelve o'clock	Přijdu ve dvanáct.	I will arrive at twelve o'clock.
+čtvrt na jednu	a quarter past twelve / a quarter to one (context dependent, usually 12:15 or 12:45)	Je čtvrt na jednu.	It is a quarter past twelve.
+půl jedné	half past twelve	Je půl jedné.	It is half past twelve.
+tři čtvrtě na jednu	a quarter to one	Je tři čtvrtě na jednu.	It is a quarter to one.
+čtvrt na dvě	a quarter past one	Je čtvrt na dvě.	It is a quarter past one.
+půl druhé	half past one	Je půl druhé.	It is half past one.
+tři čtvrtě na dvě	a quarter to two	Je tři čtvrtě na dvě.	It is a quarter to two.
+čtvrt na tři	a quarter past two	Je čtvrt na tři.	It is a quarter past two.
+půl třetí	half past two	Je půl třetí.	It is half past two.
+tři čtvrtě na tři	a quarter to three	Je tři čtvrtě na tři.	It is a quarter to three.
+dvanáct patnáct	twelve fifteen	Je dvanáct patnáct.	It is twelve fifteen.
+dvanáct třicet	twelve thirty	Je dvanáct třicet.	It is twelve thirty.
+dvanáct čtyřicet pět	twelve forty-five	Je dvanáct čtyřicet pět.	It is twelve forty-five.
+čtrnáct třicet	fourteen thirty	Je čtrnáct třicet.	It is fourteen thirty.
+dvacet dva patnáct	twenty-two fifteen	Je dvacet dva patnáct.	It is twenty-two fifteen.
+o půlnoci	at midnight	Spím o půlnoci.	I sleep at midnight.
+v poledne	at noon	Jím v poledne.	I eat at noon.
+ráno	in the morning	Vstávám ráno.	I get up in the morning.
+večer	in the evening	Jdu spát večer.	I go to sleep in the evening.
+v noci	at night	Pracuji v noci.	I work at night.
+budík	alarm clock	Můj budík zvoní v šest.	My alarm clock rings at six o'clock.
+vzbudit se	to wake up	Vzbudím se v sedm.	I wake up at seven o'clock.
+odložit budík	to snooze the alarm	Odložím budík v osm.	I snooze the alarm at eight o'clock.
+sejít se	to meet	Sejdeme se v půl třetí.	We will meet at half past two.
+uvidět se	to see each other	Kdy se uvidíme? V pět třicet.	When will we see each other? At five thirty.
+kolik je hodin	what time is it	Kolik je hodin? Je tři.	What time is it? It is three o'clock.
+přesně	exactly	Schůzka je přesně v devět.	The meeting is exactly at nine o'clock.
+hodinky	wristwatch	Mám nové hodinky.	I have a new wristwatch.
+hodiny	clock / hours	Hodiny na zdi jdou špatně.	The clock on the wall is wrong.
+lekce	lesson / class	Máme lekci v deset.	We have a lesson at ten o'clock.
+minuta	minute	Jedna minuta prosím.	One minute please.
+sekunda	second	Počkejte sekundu.	Wait a second.
+brzy	soon	Uvidíme se brzy.	We will see each other soon.
+pozdně	late	Přijdeš pozdně.	You will come late.
+brzy ráno	early in the morning	Vstávám brzy ráno.	I get up early in the morning.
+odpoledne	in the afternoon	Pracuji odpoledne.	I work in the afternoon.
+v pondělí	on Monday	Máme schůzku v pondělí v devět.	We have a meeting on Monday at nine.
+každý den	every day	Cvičím každý den ráno.	I exercise every day in the morning.
+dnes	today	Dnes je pátek.	Today is Friday.
+zítra	tomorrow	Zítra přijdu v osm.	Tomorrow I will come at eight.
+včera	yesterday	Včera jsem spal dlouho.	Yesterday I slept long.
+teď	now	Kolik je teď hodin?	What time is it now?
+hned	immediately	Přijdu hned.	I will come immediately.
+za chvíli	in a moment	Za chvíli bude půl páté.	In a moment it will be half past four.
+do práce	to work	Jdu do práce v sedm.	I go to work at seven.
+domů	home	Jdu domů v pět.	I go home at five.
+snídaně	breakfast	Jím snídaně v osm.	I eat breakfast at eight.
+oběd	lunch	Mám oběd v poledne.	I have lunch at noon.
+večeře	dinner	Jím večeři v sedm večer.	I eat dinner at seven in the evening.
+spát	to sleep	Chci spát v noci.	I want to sleep at night.
+číst	to read	Čtu večer.	I read in the evening.
+pracovat	to work	Pracuji od devíti do pěti.	I work from nine to five.
+čekat	to wait	Čekám na bus v šest.	I wait for the bus at six.
+končit	to finish/end	Končím v čtyři.	I finish at four.
+začínat	to start/begin	Začínám v osm.	I start at eight.
+vlak	train	Vlak jede v deset.	The train leaves at ten.
+bus	bus	Bus přijede v půl třetí.	The bus arrives at half past two.
+letadlo	plane	Letadlo letí v noci.	The plane flies at night.
+schůzka	meeting/appointment	Mám schůzku v jednu.	I have a meeting at one o'clock.
+kino	cinema	Jdeme do kina večer.	We go to the cinema in the evening.
+obchod	shop	Obchod otevírá v devět.	The shop opens at nine.
+škola	school	Škola začíná v osm.	School starts at eight.
+univerzita	university	Přednáška je v deset.	The lecture is at ten.
+doktor	doctor	Mám doktora v jedenáct.	I have a doctor's appointment at eleven.
+kavárna	cafe	Setkáme se v kavárně ve dvě.	We will meet in the cafe at two.
+restaurace	restaurant	Rezervace je v sedm.	The reservation is at seven.
+park	park	Jdu do parku ráno.	I go to the park in the morning.
+les	forest	Jdeme do lesa odpoledne.	We go to the forest in the afternoon.
+moře	sea	Jedeme k moři v létě.	We go to the sea in summer.
+doma	at home	Jsem doma večer.	I am at home in the evening.
+venku	outside	Je zima venku v noci.	It is cold outside at night.
+uvnitř	inside	Je teplo uvnitř.	It is warm inside.
+rychle	fast/quickly	Jez rychle.	Eat quickly.
+pomalu	slowly	Jdi pomalu.	Walk slowly.
+dlouho	for a long time	Čekám dlouho.	I wait for a long time.
+krátce	briefly	Mluvím krátce.	I speak briefly.
+vždycky	always	Vždycky vstávám brzy.	I always get up early.
+nikdy	never	Nikdy nespím v noci.	I never sleep during the day (lit. at night, context implies bad habit or shift work).
+často	often	Často jím v poledne.	I often eat at noon.
+zřídka	rarely	Zřídka vstávám pozdě.	I rarely get up late.
+někdy	sometimes	Někdy pracuji večer.	Sometimes I work in the evening.
+dneska	today (colloquial)	Dneska mám volno.	Today I have free time.
+zítra ráno	tomorrow morning	Zítra ráno jedu.	Tomorrow morning I travel.
+včera večer	yesterday evening	Včera večer jsem spal.	Yesterday evening I slept.
+před týdnem	a week ago	Před týdnem bylo pondělí.	A week ago it was Monday.
+za týden	in a week	Za týden je pátek.	In a week it will be Friday.
